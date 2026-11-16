@@ -18,7 +18,7 @@ Google Forms 스타일 UI · 자동채점 · 자가채점 · 챕터별 결과 �
 **방법 B: Git 클론**
 
 ```bash
-git clone https://github.com/wkuMyeungsu/veda-test-c.git
+git clone https://github.com/myeongsu-dev/veda-test-c.git
 cd veda-test-c
 ```
 
